@@ -2,3 +2,6 @@ quarkus:
   http:
     port: 8083
 message: Hello world!!!!!!- quarkus working
+my:
+  config:
+    property: your_value_here
