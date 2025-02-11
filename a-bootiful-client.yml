@@ -4,4 +4,4 @@ quarkus:
 message: Hello world!!!!!!- quarkus working
 my:
   config:
-    property: your_value_here_changed-config provider
+    property: your_value_here_changed-config provider-jb
